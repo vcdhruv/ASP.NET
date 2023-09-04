@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\LOC_Branch\Data\" />
     <Folder Include="Areas\LOC_Cascade\Data\" />
     <Folder Include="Areas\LOC_City\Data\" />
   </ItemGroup>

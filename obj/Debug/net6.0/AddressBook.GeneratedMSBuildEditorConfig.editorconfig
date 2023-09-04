@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\ASP.NET\AddressBook\AddressBook
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/ASP.NET/AddressBook/AddressBook/Areas/LOC_Branch/Views/LOC_Branch/AddBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0JyYW5jaFxWaWV3c1xMT0NfQnJhbmNoXEFkZEJyYW5jaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ASP.NET/AddressBook/AddressBook/Areas/LOC_Branch/Views/LOC_Branch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0JyYW5jaFxWaWV3c1xMT0NfQnJhbmNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ASP.NET/AddressBook/AddressBook/Areas/LOC_Branch/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0JyYW5jaFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/ASP.NET/AddressBook/AddressBook/Areas/LOC_Cascade/Views/LOC_Cascade/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0Nhc2NhZGVcVmlld3NcTE9DX0Nhc2NhZGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
